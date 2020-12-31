@@ -1,3 +1,4 @@
+/* This program implements the most basic Binary search algorithm */
 public class BinarySearch {
         public static int binarySearch (int arr[], int x) {
           int start = 0;
